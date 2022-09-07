@@ -3,18 +3,18 @@ const chalk = require("chalk")
 
 global.available = true
 global.autoReadGc = true
-global.autoReadAll = false
+global.autoReadAll = true
 global.antitags = true
 
 
-global.Owner = ['918101187835']
-global.OwnerNumber = ['918101187835']
-global.ownertag = ['918101187835']
-global.BotName = "Miku"
-global.packname = "Miku bot"
-global.author = "By: Fantox"
-global.OwnerName = "Fantox"
-global.BotSourceCode = "https://github.com/FantoX001/Miku-MD"
+global.Owner = ['24106813542']
+global.OwnerNumber = ['24106813542']
+global.ownertag = ['24106813542']
+global.BotName = "YARANOS"
+global.packname = "YARANOS bot"
+global.author = "By: YARANUSTRAS"
+global.OwnerName = "YARANUSTRAS"
+global.BotSourceCode = "https://github.com/ESSOYA/Miku-MD"
 global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"
 global.sessionName = "session"
 
@@ -23,11 +23,11 @@ global.sessionName = "session"
 global.prefa = ['-'] 
 
 
-global.location = "West Bengal, India"
+global.location = "LIBREVILLE, GABON"
 global.reactmoji = "❤️"
 global.themeemoji = "💖"
 global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
-global.websitex = "https://github.com/FantoX001"
+global.websitex = "https://github.com/ESSOYA"
 global.lolhuman = "KaysaS"
 
 
